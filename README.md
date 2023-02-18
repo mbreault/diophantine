@@ -1,0 +1,2 @@
+# diophantine
+Diophantine equation solver
